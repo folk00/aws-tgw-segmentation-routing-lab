@@ -1,6 +1,6 @@
 aws_region   = "us-east-1"
 project_name = "aws-tgw-segmentation-lab"
-owner        = "david-gonzalez"
+owner        = "lab-owner"
 environment  = "study"
 
 # Keep true for the full learning path with SSM validation.

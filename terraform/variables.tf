@@ -13,7 +13,7 @@ variable "project_name" {
 variable "owner" {
   description = "Owner tag value."
   type        = string
-  default     = "david-gonzalez"
+  default     = "lab-owner"
 }
 
 variable "environment" {
