@@ -1,5 +1,7 @@
 # AWS Transit Gateway Segmentation Routing Lab
 
+[![CI](https://github.com/folk00/aws-tgw-segmentation-routing-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/folk00/aws-tgw-segmentation-routing-lab/actions/workflows/ci.yml)
+
 Terraform lab for studying AWS Transit Gateway route tables, VPC attachments, route table associations, route propagation, and segmented reachability.
 
 This lab builds three VPCs in one AWS Region:
