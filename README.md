@@ -1,6 +1,9 @@
 # AWS Transit Gateway Segmentation Routing Lab
 
 [![CI](https://github.com/folk00/aws-tgw-segmentation-routing-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/folk00/aws-tgw-segmentation-routing-lab/actions/workflows/ci.yml)
+[![Terraform 1.7](https://img.shields.io/badge/terraform-1.7-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS-Transit%20Gateway-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/transit-gateway/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Terraform lab for studying AWS Transit Gateway route tables, VPC attachments, route table associations, route propagation, and segmented reachability.
 
